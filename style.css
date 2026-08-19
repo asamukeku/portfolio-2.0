@@ -25,3 +25,19 @@ h1{
 h3{
     font-size:150% ;
 }
+.milestones{
+    border: solid black 1px;
+    
+}
+h3{
+    font-size: 150%;
+}
+.contract{
+   display: flex;
+   justify-content: space-around;
+}
+
+
+#part3{
+   width: 80%;
+}
