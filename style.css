@@ -29,7 +29,7 @@ h3{
 }
 
     
-#contact{
+#contracts{
    display: flex;
    justify-content: space-around;
    width: 30%;
@@ -39,10 +39,7 @@ h3{
    padding: 3px;
    border: solid black 1px;
 }
-#contracts{
-    display: flex;
-    justify-content: space-around;
-}
+
 
 .part3{
    width: 80%;
