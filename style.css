@@ -21,6 +21,7 @@ h1{
 }
 #about{
     text-align: center;
+    padding:5%
 }
 h3{
     font-size:150% ;
@@ -31,13 +32,19 @@ h3{
 }
 h3{
     font-size: 150%;
+    text-align: center;
 }
-.contract{
+#contacts{
    display: flex;
    justify-content: space-around;
+   width: 30%;
+   height: 25vh;
+   border-radius:10px 10px ; 
+   background-color: solid red;
+   padding: 3px;
 }
 
 
-#part3{
+.part3{
    width: 80%;
 }
