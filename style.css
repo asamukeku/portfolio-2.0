@@ -6,7 +6,7 @@ body{
 section{
     display: flex;
     justify-content: space-around;
-    margin-left: 13%;
+    margin-left: 11%;
 }
 
 h1{
@@ -25,16 +25,11 @@ h1{
 }
 h3{
     font-size:150% ;
-}
-.milestones{
-    border: solid black 1px;
-    
-}
-h3{
-    font-size: 150%;
     text-align: center;
 }
-#contacts{
+
+    
+#contact{
    display: flex;
    justify-content: space-around;
    width: 30%;
@@ -42,8 +37,12 @@ h3{
    border-radius:10px 10px ; 
    background-color: solid red;
    padding: 3px;
+   border: solid black 1px;
 }
-
+#contracts{
+    display: flex;
+    justify-content: space-around;
+}
 
 .part3{
    width: 80%;
